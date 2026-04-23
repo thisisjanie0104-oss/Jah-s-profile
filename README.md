@@ -1,2 +1,2 @@
-# Jah-s-profile
-this is my first project
+# Jah's profile
+My first project
